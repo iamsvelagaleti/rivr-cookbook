@@ -13,5 +13,6 @@ targetCompatibility = "1.8"
 
 dependencies {
     implementation 'com.nuecho:rivr-voicexml:+'
+    implementation 'org.springframework:spring-web:3.2.4.RELEASE'
     runtimeOnly 'org.apache.logging.log4j:log4j-slf4j-impl:2.9.0'
 }
